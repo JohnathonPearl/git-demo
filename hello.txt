@@ -13,9 +13,4 @@ hello Git!
 hello Git!
 hello Git!
 hello Git! master
-hello Git!
-hello Git!
-<<<<<<< HEAD
-=======
 hello Git! hot-fix1
->>>>>>> hot-fix
